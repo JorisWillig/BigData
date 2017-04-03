@@ -1,0 +1,4 @@
+*.csv
+data/README.txt
+data/__MACOSX/._README.txt
+data/movielens.zip
